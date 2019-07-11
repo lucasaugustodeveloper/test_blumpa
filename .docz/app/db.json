@@ -1,0 +1,47 @@
+{
+  "config": {
+    "title": "Challenge Two",
+    "description": "Buscar em uma API pública todas as raças de cachorros.",
+    "menu": [],
+    "version": "1.0.0",
+    "repository": null,
+    "native": false,
+    "codeSandbox": true,
+    "themeConfig": {},
+    "separator": "-"
+  },
+  "props": [
+    {
+      "key": "src/components/Input/index.jsx",
+      "value": [
+        {
+          "description": "",
+          "displayName": "Input",
+          "methods": [],
+          "actualName": "Input"
+        }
+      ]
+    }
+  ],
+  "entries": [
+    {
+      "key": "src/components/Input/input.mdx",
+      "value": {
+        "name": "Input",
+        "id": "c83fafa80dcb19f600fde4b6bbda3003",
+        "filepath": "src/components/Input/input.mdx",
+        "link": "",
+        "slug": "src-components-input-input",
+        "route": "/src-components-input-input",
+        "menu": "",
+        "headings": [
+          {
+            "slug": "input",
+            "depth": 1,
+            "value": "Input"
+          }
+        ]
+      }
+    }
+  ]
+}
